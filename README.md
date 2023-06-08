@@ -1,0 +1,2 @@
+#bu yeni yaratdigim sehifedir
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas libero minima vero doloribus explicabo, ipsum modi nihil, numquam sunt, dolorem adipisci necessitatibus veniam perferendis. Possimus ea veniam quis iusto hic officia quibusdam temporibus corporis voluptatem porro perferendis esse laborum ab, eius magni obcaecati atque commodi in excepturi dignissimos soluta ducimus.
